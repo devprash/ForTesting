@@ -1,5 +1,184 @@
-2026|100|5|TypeDescription0|ObjectDescription0
-2026|101|5|TypeDescription1|ObjectDescription1
-2026|102|5|TypeDescription2|ObjectDescription2
-2026|103|5|TypeDescription3|ObjectDescription3
-
+2026|111|10|Cert sal|Salary - Superintendent
+2026|112|10|Cert sal|Salary - Associate Superintend
+2026|113|10|Cert sal|Salary - Director and/or Super
+2026|114|10|Cert sal|Salary - Classified Principal/
+2026|115|10|Cert sal|Salary - Finance Officer
+2026|116|10|Cert sal|Salary - Assistant Principal(N
+2026|117|10|Cert sal|Salary - Other Asst. Principal
+2026|118|10|Cert sal|Salary - Assistant Superintend
+2026|120|10|Cert sal|Salary - 11th and 12th Install
+2026|121|10|Cert sal|Salary - Teacher
+2026|122|10|Cert sal|Salary - Interim Teacher - Non
+2026|123|10|Cert sal|Salary - JROTC Teacher
+2026|124|10|Cert sal|Salary - IFE
+2026|125|10|Cert sal|Salary - New Teacher Orientati
+2026|126|10|Cert sal|Salary - Extended Contracts
+2026|127|10|Cert sal|Master Teacher
+2026|128|10|Cert sal|Salary - Re-employed Retired T
+2026|129|10|Cert sal|Salary - Held Harmless Salary
+2026|131|10|Cert sal|Salary - Instruct. Support I -
+2026|132|10|Cert sal|Salary - Instruct. Support II
+2026|133|10|Cert sal|Salary - Psychologists
+2026|134|10|Cert sal|Salary - Teacher Mentor
+2026|135|10|Cert sal|Salary - Instructional Facilit
+2026|141|11|Noncert sa|Salary - TA - Other
+2026|142|11|Noncert sa|Salary - TA
+2026|143|13|Oth salary|Salary - Tutor
+2026|144|11|Noncert sa|Salary - Interpreter/Braillist
+2026|145|11|Noncert sa|Salary - Therapist
+2026|146|11|Noncert sa|Salary - Specialist (School-Ba
+2026|147|11|Noncert sa|Salary - Monitors
+2026|148|11|Noncert sa|Salary - Non-Certified Instruc
+2026|149|11|Noncert sa|Salary - SRO
+2026|151|11|Noncert sa|Salary - Office Support
+2026|152|11|Noncert sa|Salary - Technician
+2026|153|11|Noncert sa|Salary - Admin Specialist (Cen
+2026|162|13|Oth salary|Substitute Pay - Reg. Absence
+2026|163|13|Oth salary|Substitute Pay - Staff Dev.
+2026|164|13|Oth salary|Salary - Full Time Sub - Non-C
+2026|165|13|Oth salary|Substitute Pay - Non-Teaching
+2026|166|13|Oth salary|Tchr. Asst. Pay - Staff Dev.
+2026|167|13|Oth salary|Tchr. Asst. Pay - Reg. Absence
+2026|171|11|Noncert sa|Salary - Driver
+2026|172|16|Other pay|Salary - Driver Overtime
+2026|173|11|Noncert sa|Salary - Custodian
+2026|174|11|Noncert sa|Salary - Cafeteria Workers
+2026|175|11|Noncert sa|Salary - Skilled Trades
+2026|176|11|Noncert sa|Salary - Manager
+2026|177|13|Oth salary|Work Study Student
+2026|178|13|Oth salary|Day Care/Before/After Sch Care
+2026|180|16|Other pay|Bonus Pay (Not Subject to Reti
+2026|181|16|Other pay|Supplementary Pay
+2026|182|16|Other pay|Employee Allowances Taxable
+2026|183|14|Bonus pay|Bonus Pay
+2026|184|16|Other pay|Longevity Pay
+2026|185|16|Other pay|Bonus Leave Payoff
+2026|186|16|Other pay|Short Term Disability - Beyond
+2026|187|16|Other pay|Salary Differential
+2026|188|16|Other pay|Annual Leave Payoff
+2026|189|16|Other pay|Short Term Disability - First
+2026|191|16|Other pay|Curriculum Development Pay
+2026|192|16|Other pay|Additional Responsibility Stip
+2026|193|16|Other pay|Mentor Stipend
+2026|194|16|Other pay|State-Designated Stipend
+2026|195|16|Other pay|Planning Period Stipend
+2026|196|16|Other pay|Staff Dev. Participant Pay
+2026|197|16|Other pay|Staff Development Instructor
+2026|198|16|Other pay|Tutorial Pay
+2026|199|16|Other pay|Overtime Pay
+2026|210|30|Soc secty|Employer's Soc Sec - Installme
+2026|211|30|Soc secty|Employer's Soc Sec - Regular
+2026|220|31|Retirement|Employer's Retirement - Instal
+2026|221|31|Retirement|Employer's Retirement - Regula
+2026|222|31|Retirement|1.36% Retirement Contribution
+2026|223|31|Retirement|Pension Expense (GASB 67/68/75
+2026|228|31|Retirement|Employer's Ret - Re-employed T
+2026|229|31|Retirement|Other Retirement Cost
+2026|231|32|Hospital|Employer's Hospitalization Ins
+2026|232|05|Oth(Uncal)|Employer's Workers' Comp Ins
+2026|233|05|Oth(Uncal)|Employer's Unemployment Ins
+2026|234|05|Oth(Uncal)|Employer's Dental Ins Cost
+2026|235|05|Oth(Uncal)|Employer's Life Insurance Cost
+2026|239|05|Oth(Uncal)|Other Insurance Cost
+2026|291|05|Oth(Uncal)|Payments to/for Injured Employ
+2026|299|05|Oth(Uncal)|Other Employee Benefits
+2026|311|05|Oth(Uncal)|Contracted Services
+2026|312|05|Oth(Uncal)|Workshop Exp/Allowable Travel
+2026|313|05|Oth(Uncal)|Contracted Instructional Subst
+2026|314|05|Oth(Uncal)|Marketing Costs
+2026|315|05|Oth(Uncal)|Reproduction Costs
+2026|316|05|Oth(Uncal)|Commercial Driver's License Me
+2026|317|05|Oth(Uncal)|Psychological Serv -Contract
+2026|318|05|Oth(Uncal)|Speech and Language Serv.-Cont
+2026|319|05|Oth(Uncal)|Other Professional/Technical C
+2026|321|05|Oth(Uncal)|Public Utilities - Electric Sv
+2026|322|05|Oth(Uncal)|Public Utilities - Natural Gas
+2026|323|05|Oth(Uncal)|Public Utilities - Water/Sewer
+2026|324|05|Oth(Uncal)|Waste Management
+2026|325|05|Oth(Uncal)|Contracted Repairs - Land/Bldg
+2026|326|05|Oth(Uncal)|Contracted Repairs - Equipment
+2026|327|05|Oth(Uncal)|Rentals/Leases
+2026|329|05|Oth(Uncal)|Other Property Services (New)
+2026|331|05|Oth(Uncal)|Pupil Transportation - Contrac
+2026|332|05|Oth(Uncal)|Travel Reimbursement
+2026|333|05|Oth(Uncal)|Field Trips
+2026|341|05|Oth(Uncal)|Telephone
+2026|342|05|Oth(Uncal)|Postage
+2026|343|05|Oth(Uncal)|Telecommunications Services
+2026|344|05|Oth(Uncal)|Mobile Communication
+2026|345|05|Oth(Uncal)|Security Monitoring
+2026|349|05|Oth(Uncal)|Other Communication Services
+2026|351|05|Oth(Uncal)|Tuition Reimbursements
+2026|352|05|Oth(Uncal)|Employee Education Reimb
+2026|353|05|Oth(Uncal)|Certification/Licensing Fees
+2026|361|05|Oth(Uncal)|Membership Dues and Fees
+2026|362|05|Oth(Uncal)|Bank Service Fees
+2026|363|05|Oth(Uncal)|Assessments/Penalties
+2026|371|05|Oth(Uncal)|Insurance - Liability
+2026|372|05|Oth(Uncal)|Insurance - Vehicle Liability
+2026|373|05|Oth(Uncal)|Insurance - Property
+2026|374|05|Oth(Uncal)|Judgments Against the LEA
+2026|375|05|Oth(Uncal)|Fidelity Bond Premium
+2026|376|05|Oth(Uncal)|Insurance - Pupil Tansportatio
+2026|377|05|Oth(Uncal)|Payments to Injured Children
+2026|378|05|Oth(Uncal)|Scholastic Accident Insurance
+2026|379|05|Oth(Uncal)|Other Insurance & Judgments
+2026|381|05|Oth(Uncal)|Debt Service-Principal
+2026|382|05|Oth(Uncal)|Debt Service-Interest
+2026|391|05|Oth(Uncal)|Tax Payments
+2026|392|03|Ind Cost|Indirect Cost
+2026|393|05|Oth(Uncal)|Contingency Funds
+2026|394|05|Oth(Uncal)|Unrestricted Indirect Cost Rat
+2026|399|04|Unbud fund|Unbudgeted Funds
+2026|411|05|Oth(Uncal)|Supplies and Materials
+2026|412|05|Oth(Uncal)|State Textbooks
+2026|413|05|Oth(Uncal)|Other Textbooks
+2026|414|05|Oth(Uncal)|Library Books
+2026|415|05|Oth(Uncal)|Community College/University T
+2026|418|05|Oth(Uncal)|Computer Software and Supplies
+2026|421|05|Oth(Uncal)|Fuel for Facilities
+2026|422|05|Oth(Uncal)|Repair Parts, Materials & Labo
+2026|423|05|Oth(Uncal)|Gas/Diesel Fuel
+2026|424|05|Oth(Uncal)|Oil
+2026|425|05|Oth(Uncal)|Tires and Tubes
+2026|451|05|Oth(Uncal)|Food Purchase
+2026|452|05|Oth(Uncal)|USDA Commodity Foods
+2026|453|05|Oth(Uncal)|Food Processing Supplies
+2026|454|05|Oth(Uncal)|Inventory Loss
+2026|455|05|Oth(Uncal)|Meal Sales Discount
+2026|459|05|Oth(Uncal)|Other Food Purchases
+2026|461|02|Equipment|Furniture and Equipment - Inve
+2026|462|02|Equipment|Computer Equipment - Inventori
+2026|471|05|Oth(Uncal)|Sales and Use Tax Expense
+2026|472|05|Oth(Uncal)|Sales and Use Tax Refund
+2026|511|05|Oth(Uncal)|Purchase of New Sites
+2026|512|05|Oth(Uncal)|Land Additions to Existing Sit
+2026|521|05|Oth(Uncal)|Purchase of Existing Buildings
+2026|522|05|Oth(Uncal)|General Contract
+2026|523|05|Oth(Uncal)|HVAC Contract
+2026|524|05|Oth(Uncal)|Electrical Contract
+2026|525|05|Oth(Uncal)|Plumbing Contract
+2026|526|05|Oth(Uncal)|Architects Fees
+2026|527|05|Oth(Uncal)|Construction Mgmt Contracts
+2026|528|05|Oth(Uncal)|Carpentry Contracts
+2026|529|05|Oth(Uncal)|Miscellaneous Contracts & Othe
+2026|531|05|Oth(Uncal)|Improvements to New Sites
+2026|532|05|Oth(Uncal)|Improvements to Existing Sites
+2026|533|05|Oth(Uncal)|Improvements to Site-Reimbursa
+2026|541|02|Equipment|Equipment Purchase - Capitaliz
+2026|542|02|Equipment|Computer Hardware Purchase - C
+2026|551|05|Oth(Uncal)|Vehicles Purchase
+2026|552|05|Oth(Uncal)|License and Title Fees
+2026|561|05|Oth(Uncal)|Library Books - Capitalized
+2026|571|05|Oth(Uncal)|Depreciation
+2026|711|05|Oth(Uncal)|Transfers to SPSF
+2026|712|05|Oth(Uncal)|Tfrs to Local Current Exp Fund
+2026|713|05|Oth(Uncal)|Tfrs to Federal Grant Fund
+2026|714|05|Oth(Uncal)|Tfrs to Capital Outlay Fund
+2026|715|05|Oth(Uncal)|Tfrs to Multiple Enterprise Fu
+2026|716|05|Oth(Uncal)|Tfrs to Individual School Fund
+2026|717|05|Oth(Uncal)|Tfrs to Charter Schools
+2026|718|05|Oth(Uncal)|Tfrs to Private Schools
+2026|721|05|Oth(Uncal)|NCLB Transferability - Transfe
+2026|722|05|Oth(Uncal)|NCLB Transferability - Transfe
+2026|395|05|Oth(Uncal)|COVID Late Liquidation Refund
